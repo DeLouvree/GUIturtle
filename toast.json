@@ -1,22 +1,22 @@
 [
     {
         "id":4,
-        "title":"딥치즈베이컨",
-        "content": "Deep Cheese Bacon"
+        "title":"트리플소세지 토스트",
+        "content": "Tripple Saussage Toast"
     },
     {
         "id":5,
-        "title":"더블소세지",
-        "content": "Double Saussage"
+        "title":"허니갈릭 햄치즈",
+        "content": "Honey Garlic Ham Toast"
     },
     {
         "id":6,
-        "title":"피자",
-        "content": "Pizza"
+        "title":"베이컨 포테이토 피자",
+        "content": "Bacon Potato Pizza Toast"
     },
     {
         "id":7,
-        "title":"딥치즈포테이토",
-        "content": "Deep Cheese Potato"
+        "title":"베이컨 치즈 베이글",
+        "content": "Bacon cheese Toast"
     }
 ]
